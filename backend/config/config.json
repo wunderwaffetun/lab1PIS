@@ -1,0 +1,11 @@
+{
+    "db": {
+        "user": "labuser",
+        "host": "localhost",
+        "database": "lab1",
+        "password": "root", 
+        "port": 5432,
+        "dialect": "postgres"
+    },
+    "port": "5001"
+}
